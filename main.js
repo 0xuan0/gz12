@@ -1,1 +1,2 @@
-var a = 100
+var a = 666;
+console.log(a);
